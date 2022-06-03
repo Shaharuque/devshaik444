@@ -3,7 +3,6 @@
 - 🌱 I’m currently working with React js,Redux toolkit,Node js,Express,Mongo DB,Firebase
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- 
 
 <!---
 devshaik444/devshaik444 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
